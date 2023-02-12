@@ -154,9 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Asomugha John
-Utibe
-
-Second part of Airbnb: Joann Vuong
+Asomugha John <asomughakenenna@gmail.com>
+Utibe Edet <utibesky01@gmail.com>
+Second part of Airbnb:
 ## License
 Public Domain. No copy write protection. 
